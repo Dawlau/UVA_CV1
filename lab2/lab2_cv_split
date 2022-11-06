@@ -1,0 +1,14 @@
+2 - 2 neighbourhood processing (theoretical questions no coding)
+3: 3.1 gaussian filters
+   3.2 gabor filters (more code than gaussian)
+4: 4.1 noise in digital images (theoretical questions)
+   4.2 image denoising (theory + code)
+   4.3 edge detection (theory + code)
+   4.4 foreground-background separation (theory + code)
+   
+   
+ My split:
+ 
+ 1) 2, 3.2 4.2
+ 2) 3.1, 4.1, 4.3
+ 3) 4.4

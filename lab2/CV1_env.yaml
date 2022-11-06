@@ -1,0 +1,13 @@
+name: cv1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pip=21.2.2
+  - pip:
+    - numpy==1.19.5
+    - opencv-contrib-python==3.4.2.17
+    - matplotlib==3.3.4
+    - jupyter==1.0.0
+    - scikit-learn==0.23.0
